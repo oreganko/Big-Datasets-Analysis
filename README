@@ -1,0 +1,10 @@
+# Big Datasets Analysis with use of Spark
+## Analiza Dużych Zbiorów Danych - AGH
+
+Laboratories:
+ 1. Map Reduce
+ 2. UDF creation, data unification
+ 3. Spark on EMR - windowing, testing workers
+ 4. Data streams, watermarking, joining streams
+ 5. GraphX, Pregel API
+ 6. Spark MLlib
